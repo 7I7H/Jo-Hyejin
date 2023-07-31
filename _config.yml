@@ -1,12 +1,12 @@
 # Site settings
 title: Jo-Hyejin
 description: "Hello, this is test description text."
-url:  "https://Jo-Hyejin.github.io" # Actual base url of the website
+url:  "https://7i7h.github.io" # Actual base url of the website
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: "Jo-Hyejin"
   email: "jo0920hyejin@gmail.com"
-  url: "https://Jo-Hyejin.github.io"
+  url: "https://7i7h.github.io"
 permalink: /:year/:month/:day/:title:output_ext
 
 #Plugins
